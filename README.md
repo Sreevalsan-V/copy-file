@@ -49,7 +49,11 @@ with open("data.txt","r") as f2:
 
 ```
 ### OUTPUT:
-![output](./1.png)
+
+
+![Alt text](image-1.png)
+
+![Alt text](image.png)
 
 
 ## RESULT:
